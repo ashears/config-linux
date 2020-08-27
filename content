@@ -1,0 +1,2 @@
+alias p='ps -aef'
+alias g='grep'
