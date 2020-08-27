@@ -1,2 +1,12 @@
+######CUSTOM ALIASES BELOW######
+
+# View running processes
 alias p='ps -aef'
+
+# Filter output
 alias g='grep'
+
+# Show disk usage in human readable format
+alias df='df -H'
+
+######END CUSTOM ALIASES######
