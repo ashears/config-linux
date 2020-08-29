@@ -14,4 +14,11 @@ alias mv="mv -v"
 alias rm="rm -vi"
 alias cp="cp -v"
 
+# Easier way to go back directories
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias ......="cd ../../../../.."
+
 ######END CUSTOM ALIASES######
