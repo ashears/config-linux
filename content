@@ -9,4 +9,9 @@ alias g='grep'
 # Show disk usage in human readable format
 alias df='df -H'
 
+# Make some of the file manipulation programs verbose
+alias mv="mv -v"
+alias rm="rm -vi"
+alias cp="cp -v"
+
 ######END CUSTOM ALIASES######
