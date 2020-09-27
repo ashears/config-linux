@@ -21,4 +21,8 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ......="cd ../../../../.."
 
+# Compression
+alias ctar="tar czvf"
+alias utar="tar xzvf"
+
 ######END CUSTOM ALIASES######
