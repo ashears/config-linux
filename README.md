@@ -1,4 +1,5 @@
 # my-bash-aliases
+This repository contains bash aliases I regularly use to improve productivity.
 
 Usage:
 
