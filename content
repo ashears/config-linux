@@ -25,4 +25,7 @@ alias ......="cd ../../../../.."
 alias ctar="tar czvf"
 alias utar="tar xzvf"
 
+# Docker
+alias dcu="docker-compose up --build"
+
 ######END CUSTOM ALIASES######
