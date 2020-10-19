@@ -6,6 +6,8 @@ alias p='ps -aef'
 # Filter output
 alias g='grep'
 
+# Show history
+alias h="history"
 # Show disk usage in human readable format
 alias df='df -H'
 
@@ -24,6 +26,9 @@ alias ......="cd ../../../../.."
 # Compression
 alias ctar="tar czvf"
 alias utar="tar xzvf"
+
+# Start calculator
+alias calc="bc -l"
 
 # Docker
 alias dcu="docker-compose up --build"
