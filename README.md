@@ -1,5 +1,6 @@
-# my-bash-aliases
-This repository contains bash aliases I regularly use to improve productivity.
+# config-linux
+Used to configure linux systems according to my preferences.
+Sets things such as shell aliases, editor settings, etc.
 
 Usage:
 
@@ -9,5 +10,3 @@ source ~/.bash_profile
 
 curl https://raw.githubusercontent.com/ashears/config-linux/master/.vimrc >> ~/.vimrc
 ```
-
-This will append the content into your machines bash_profile, and then load that profile for immediate use.
